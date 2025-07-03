@@ -32,4 +32,6 @@ const generateFakeNews = (count: number) => {
     return all_news;
 }
 
+export default generateFakeNews;
+
 // Use the faker library to generate fake data and then aggregate them to form some fake news articles
