@@ -16,7 +16,8 @@ const RootLayout = () => {
                     screenOptions={{
                         headerShown: false
                     }}
-                    />
+                    >
+                    </Stack>
                 </SafeAreaView>
             </SafeAreaProvider>
         </PaperProvider>

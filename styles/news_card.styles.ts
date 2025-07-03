@@ -8,10 +8,10 @@ export const styles = StyleSheet.create({
     },
     chip: {
         backgroundColor: "lime",
-        marginLeft: "auto",
-        marginBottom: 10,
-        marginRight: 10,
-        marginTop: 20
+        // marginLeft: "auto",
+        // marginBottom: 10,
+        // marginRight: 10,
+        // marginTop: 20
     },
     chip_text: {
         color: "black"
